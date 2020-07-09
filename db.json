@@ -24,6 +24,11 @@
       "partID": 87,
       "partName": "part87",
       "qoh": 100
+    },
+    {
+      "partID": 88,
+      "partName": "part88",
+      "qoh": 112
     }
   ],
   "profile": {
